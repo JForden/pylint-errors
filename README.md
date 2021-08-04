@@ -1,4 +1,4 @@
-The goal of this Github is to help students understand the stylistic errors that Pylint provides. It serves as a "wrapper" to the error messages that are output via TA-Bot an automated assessment tool.
+The goal of this Github is to help students understand the stylistic errors that Pylint provides. It serves as a "wrapper" to the error messages that are output via TA-Bot(utalizing pylint) an automated assessment tool.
 
 - [TA-Bot](https://github.com/JForden/AutoTA)
 
