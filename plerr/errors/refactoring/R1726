@@ -1,0 +1,17 @@
+## R1726 (simplifiable-condition)
+
+### :x: Problematic code:
+
+```python
+if (x == (True or False)): 
+```
+
+### :heavy_check_mark: Correct code:
+
+```python
+if (x):
+```
+
+### Rationale:
+
+Occurs when a boolean expression can be simplifed into a more concise boolean expression.   
